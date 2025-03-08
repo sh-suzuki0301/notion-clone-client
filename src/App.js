@@ -8,7 +8,7 @@ import { CssBaseline } from "@mui/material";
 
 function App() {
   const theme = createTheme({
-    palette: { primary: bule },
+    palette: { main: "blue" },
   });
   return (
     <ThemeProvider theme={theme}>
