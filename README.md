@@ -1,3 +1,6 @@
+# notion-clone-client
+This is a Notion clone application(frontend) I created to catch up with the MERN stack (MongoDB/Express/React/Node.js).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
